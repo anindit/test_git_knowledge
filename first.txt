@@ -1,8 +1,1 @@
-hi
-h2
-who
-2
-ee
-3
-2
-who
+i am changing whole content in first.txt
